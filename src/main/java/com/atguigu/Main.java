@@ -9,5 +9,7 @@ public class Main {
 
         System.out.println("Add: " + calculator.add(a, b));
         System.out.println("Subtract: " + calculator.subtract(a, b));
+        System.out.println("Multiply: " + calculator.multiply(a, b));
+
     }
 }
